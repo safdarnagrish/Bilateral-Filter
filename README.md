@@ -38,7 +38,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/bilateral-filter-project.git
+git clone https://github.com/safdarnagrish/bilateral-filter-project.git
 cd bilateral-filter-project
 Place your input image (e.g., girl.jpg) in the project directory.
 
